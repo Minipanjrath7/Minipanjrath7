@@ -1,4 +1,14 @@
-## Hi there 👋
+<h2 align="left">Hi 👋, I'm Mini</h2>
+
+
+#### Certified Analyst || Experienced Marketer (3+ Years)
+Passionate about uncovering actionable insights from data. Collaborative team player who enjoys engaging with diverse individuals and working across functions. I'm proficient in Meta advertising, web analytics, social media management, and content creation. Skilled in analytical tools like Python, SQL, PowerBI & Tableau.
+
+
+<h4 align="left">Let's Connect !</h4>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/minipanjrath7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minipanjrath" height="30" width="40" /></a>
 
 <!--
 **Minipanjrath7/Minipanjrath7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
