@@ -2,7 +2,7 @@
 
 
 #### Certified Analyst || Experienced Marketer (3+ Years)
-Passionate about uncovering actionable insights from data. Collaborative team player who enjoys engaging with diverse individuals and working across functions. I'm proficient in Meta advertising, web analytics, social media management, and content creation. Skilled in analytical tools like Python, SQL, PowerBI & Tableau.
+I am an MBA postgraduate who offers a distinctive blend of business acumen, marketing prowess, and analytical skills. Passionate about uncovering actionable insights from data. Collaborative team player who enjoys engaging with diverse individuals and working across functions. I'm proficient in Meta advertising, web analytics, social media management, and content creation. Skilled in analytical tools like Python, SQL, PowerBI & Tableau.
 
 
 <h4 align="left">Let's Connect !</h4>
